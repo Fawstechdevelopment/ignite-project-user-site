@@ -1,0 +1,11 @@
+# Change Summary
+-
+- Connected Innovative Projects and Gallery sections to live APIs.
+- Preserved original gallery UI while sourcing API images.
+- Implemented Google login and Password reset (OTP) flows.
+- Added Project Detail page matching provided UI, with timeline and related ideas.
+- Timeline uses `default_stages` and supports per-stage expand; fallback when empty.
+- Added Cart page, connected Add-to-Cart and auto-navigation.
+- Strengthened API key injection and auth handling.
+- Input validation for login/signup; improved error messages.
+- Added tests for detail timeline and cart UI.
